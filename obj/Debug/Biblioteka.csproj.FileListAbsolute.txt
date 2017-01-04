@@ -1,0 +1,15 @@
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\MainWindow.baml
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\NowaKsiazka.baml
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\MainWindow.g.cs
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\NowaKsiazka.g.cs
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\App.g.cs
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka_MarkupCompile.cache
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.g.resources
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.resources
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+c:\users\local\documents\visual studio 2013\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
